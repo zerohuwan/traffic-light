@@ -1,0 +1,41 @@
+Protel Design System Design Rule Check
+PCB File : \BaiduNetdiskDownload\94. 51单片机 交通灯\1. 原理图\5.23.PcbDoc
+Date     : 2021/5/24
+Time     : 22:16:54
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad J1-1(2779.37mil,6520mil)  Multi-Layer on Net VCC
+   Pad J1-2(2535.276mil,6520mil)  Multi-Layer on Net GND
+Total: 2
+
+Processing Rule : Clearance Constraint (Gap=0mil) (All),(All)
+   Violation between Pad J1-1A(2779.37mil,6470.788mil)  Multi-Layer and                      Pad J1-1(2779.37mil,6520mil)  Multi-Layer   
+   Violation between Pad J1-1B(2779.37mil,6569.214mil)  Multi-Layer and                      Pad J1-1(2779.37mil,6520mil)  Multi-Layer   
+   Violation between Pad J1-2A(2535.276mil,6480.63mil)  Multi-Layer and                      Pad J1-2(2535.276mil,6520mil)  Multi-Layer   
+   Violation between Pad J1-2B(2535.276mil,6559.37mil)  Multi-Layer and                      Pad J1-2(2535.276mil,6520mil)  Multi-Layer   
+Rule Violations :4
+
+Processing Rule : Width Constraint (Min=5mil) (Max=5mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=39370.079mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad J1-1A(2779.37mil,6470.788mil)  Multi-Layer and                      Pad J1-1(2779.37mil,6520mil)  Multi-Layer   
+   Violation between Pad J1-1B(2779.37mil,6569.214mil)  Multi-Layer and                      Pad J1-1(2779.37mil,6520mil)  Multi-Layer   
+   Violation between Pad J1-2A(2535.276mil,6480.63mil)  Multi-Layer and                      Pad J1-2(2535.276mil,6520mil)  Multi-Layer   
+   Violation between Pad J1-2B(2535.276mil,6559.37mil)  Multi-Layer and                      Pad J1-2(2535.276mil,6520mil)  Multi-Layer   
+   Violation between Pad J1-3A(2614.016mil,6323.15mil)  Multi-Layer and                      Pad J1-3(2653.386mil,6323.15mil)  Multi-Layer   
+   Violation between Pad J1-3B(2692.756mil,6323.15mil)  Multi-Layer and                      Pad J1-3(2653.386mil,6323.15mil)  Multi-Layer   
+Rule Violations :6
+
+
+Violations Detected : 10
+Time Elapsed        : 00:00:00

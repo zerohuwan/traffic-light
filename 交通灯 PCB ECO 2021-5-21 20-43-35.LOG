@@ -1,0 +1,55 @@
+Added Component: Designator=J2(SIP9)
+Added Net: Name=BG
+Added Net: Name=BR
+Added Net: Name=BY
+Added Net: Name=C1
+Added Net: Name=C2
+Added Net: Name=DG
+Added Net: Name=DR
+Added Net: Name=DY
+Added Net: Name=GND
+Added Net: Name=NetQ5_2
+Added Net: Name=NetQ6_2
+Added Net: Name=NetR10_2
+Added Net: Name=NetR11_2
+Added Net: Name=NetR12_2
+Added Net: Name=NetR13_1
+Added Net: Name=NetR14_1
+Added Net: Name=NetR15_1
+Added Net: Name=NetR16_1
+Added Net: Name=NetR17_1
+Added Net: Name=NetR18_1
+Added Net: Name=NetR19_2
+Added Net: Name=NetR20_2
+Added Net: Name=NetR21_2
+Added Net: Name=NG
+Added Net: Name=NR
+Added Net: Name=NY
+Added Net: Name=P00
+Added Net: Name=P01
+Added Net: Name=P02
+Added Net: Name=P03
+Added Net: Name=P04
+Added Net: Name=P05
+Added Net: Name=P06
+Added Net: Name=P07
+Added Net: Name=P23
+Added Net: Name=P24
+Added Pin To Net: NetName=P31 Pin=J2-6
+Added Net: Name=P31
+Added Pin To Net: NetName=P32 Pin=J2-7
+Added Net: Name=P32
+Added Pin To Net: NetName=P33 Pin=J2-8
+Added Net: Name=P33
+Added Pin To Net: NetName=P34 Pin=J2-9
+Added Net: Name=P34
+Added Net: Name=RST
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Net: Name=VCC
+Added Net: Name=X1
+Added Net: Name=X2
+Added Net: Name=XG
+Added Net: Name=XR
+Added Net: Name=XY
+Added Class: Name=交通灯
+Added Room: Name=交通灯
